@@ -46,5 +46,6 @@
   "overrides": {
     "sugarss": "^5.0.1",
     "lodash": "4.17.23"
-  }
+  },
+  "packageManager": "pnpm@9.1.4+sha1.2432063d815cfa88fd9fef1d85a445e3f609851d"
 }
